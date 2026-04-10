@@ -127,7 +127,7 @@ const projects = [
     repo: "cloud",
     lang: "HTML",
     langColor: "#e34c26",
-    demo: "https://cloud-five-alpha.vercel.app",
+    demo: "https://cloud-sooty.vercel.app/",
     github: "https://github.com/tomas-martin/cloud",
     desc: "Proyecto web de almacenamiento y gestión en la nube. Interfaz intuitiva y moderna.",
     tags: ["HTML", "CSS", "JavaScript"],
