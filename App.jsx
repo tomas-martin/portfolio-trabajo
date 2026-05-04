@@ -26,12 +26,12 @@ const projects = [
   {
     name: "Futsal Rivadavia",
     repo: "futsalrivadavia",
-    lang: "JavaScript",
-    langColor: "#39ff14",
+    lang: "TypeScript",
+    langColor: "#00ff41",
     demo: "https://futsalrivadavia.vercel.app",
     github: "https://github.com/tomas-martin/futsalrivadavia",
     desc: "Sitio web del club Futsal Rivadavia. Información del club, gestión y pago de cuotas de afiliados.",
-    tags: ["JavaScript", "HTML", "CSS"],
+    tags: ["Next.js", "TypeScript", "React"],
     category: "cliente",
   },
   {
@@ -180,7 +180,8 @@ const categories = [
 const skills = [
   { name: "HTML / CSS", level: 95 },
   { name: "JavaScript", level: 90 },
-  { name: "TypeScript", level: 70 },
+  { name: "TypeScript", level: 80 },
+  { name: "React / Next.js", level: 85 },
   { name: "PHP", level: 65 },
   { name: "Python", level: 60 },
   { name: "Dart / Flutter", level: 55 },
